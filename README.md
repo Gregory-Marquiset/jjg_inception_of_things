@@ -1,4 +1,4 @@
-> This project has been created as part of the 42 curriculum by [jeportie](https://github.com/jeportie), jmaruffy and [gmarquis](https://github.com/Gregory-Marquiset).
+> This project has been created as part of the 42 curriculum by [jeportie](https://github.com/jeportie), [jmaruffy](https://github.com/Maruffly) and [gmarquis](https://github.com/Gregory-Marquiset).
 
 ---
 
